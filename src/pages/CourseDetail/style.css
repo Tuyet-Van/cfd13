@@ -1,0 +1,11 @@
+.contentdetail .content .contentrow .contenteditor h2 {
+    font-size: inherit;
+    margin: inherit;
+    font-family: inherit;
+    line-height: inherit;
+}
+
+.contentdetail .content .contentrow .contenteditor p:nth-last-child(-n+3) {
+    color: #00afab;
+    font-size: 22px;
+}
