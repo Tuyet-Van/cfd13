@@ -23,7 +23,7 @@ const ComingCourse = (props) => {
     <section className="coursecoming --scpadding">
       <div className="container">
         <Heading
-          title="Khoá học"
+          title="Khoá học Test2"
           blueTitle="sắp khai giảng"
           control
           handleNextClick={handleNextClick}
