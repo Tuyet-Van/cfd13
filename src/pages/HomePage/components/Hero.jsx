@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="hero__content">
         <div className="container">
           <h1 className="title --white">
-            Học Viện Đào Tạo TEST
+            Học Viện Đào Tạo
             <br /> Lập Trình Front-End Thực Chiến
           </h1>
           <p className="text">
